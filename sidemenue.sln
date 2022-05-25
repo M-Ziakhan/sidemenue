@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sidemenue", "sidemenue\sidemenue.csproj", "{07B96A94-3C9B-4298-A91C-A54F8F9A885D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07B96A94-3C9B-4298-A91C-A54F8F9A885D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B96A94-3C9B-4298-A91C-A54F8F9A885D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B96A94-3C9B-4298-A91C-A54F8F9A885D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B96A94-3C9B-4298-A91C-A54F8F9A885D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15E0DFC7-26E8-419D-9A1C-999EE1B051E8}
+	EndGlobalSection
+EndGlobal
